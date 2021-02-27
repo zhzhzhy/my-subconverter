@@ -1,5 +1,7 @@
 # My-subconverter
 
+[![Deploy to okteto](https://github.com/zhzhzhy/my-subconverter/actions/workflows/deploy-to-okteto.yml/badge.svg)](https://github.com/zhzhzhy/my-subconverter/actions/workflows/deploy-to-okteto.yml)
+
 Customized [subconverter](https://github.com/tindy2013/subconverter) deployed to [okteto](https://cloud.okteto.com/)
 
 ## How to build your own subconverter server in okteto?
